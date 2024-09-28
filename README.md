@@ -1,12 +1,11 @@
 <h1 align="center">Hi 👋, I'm Milan Kumar Dandapat</h1>
 <h3 align="center">A passionate Software developer Engineer from India</h3>
-<img src="https://giphy.com/gifs/tech-programming-backend-KGhpQ5NMoWKQurlHwI" alt="">
 
 - 🔭 I’m currently working on **Project T-BLOOD**
 
 - 🌱 I’m currently learning **PYTHON,DSA**
 
-- 👨‍💻 All of my projects are available at [www.linkedin.com/in/milan-kumar-dandapat](www.linkedin.com/in/milan-kumar-dandapat)
+- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/milan-kumar-dandapat?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app](https://www.linkedin.com/in/milan-kumar-dandapat?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 - 💬 Ask me about **C,HTML,CSS,JAVASCRIPT,REACT**
 
@@ -14,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/milan-kumar-dandapat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/milan-kumar-dandapat" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/milan-kumar-dandapat?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/milan-kumar-dandapat?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/milankumar_07?utm_source=qr&igsh=mth1nne0bwrinxv6da==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/milankumar_07?utm_source=qr&igsh=mth1nne0bwrinxv6da==" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://youtube.com/@codingfanda9742?si=fn6tba6suaivoojr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/@codingfanda9742?si=fn6tba6suaivoojr" height="30" width="40" /></a>
 </p>
