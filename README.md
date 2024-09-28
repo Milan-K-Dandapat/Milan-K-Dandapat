@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Milan Kumar Dandapat</h1>
 <h3 align="center">A passionate Software developer Engineer from India</h3>
-
+<img alt="Coder GIF" height=250 width=350 src="https://magiccopy.xyz/assets/images/hadder.gif" />
+<br>
 - 🔭 I’m currently working on **Project T-BLOOD**
 
 - 🌱 I’m currently learning **PYTHON,DSA**
