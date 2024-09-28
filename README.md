@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Milan Kumar Dandapat</h1>
 <h3 align="center">A passionate Software developer Engineer from India</h3>
-<img align='center' src='https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/octocat/daftpunktocat-guy.gif' width='300"'>
+<img align="center" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 - 🔭 I’m currently working on **Project T-BLOOD**
 
 - 🌱 I’m currently learning **PYTHON,DSA**
