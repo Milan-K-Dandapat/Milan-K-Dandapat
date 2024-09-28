@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Milan Kumar Dandapat</h1>
 <h3 align="center">A passionate Software developer Engineer from India</h3>
+<img src="https://www.vecteezy.com/video/36555436-loading-animation-video" alt="">
 
 - 🔭 I’m currently working on **Project T-BLOOD**
 
